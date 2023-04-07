@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Python projects
+- 🌱 I’m currently learning how to make telegram bots
+- 👯 I would like to collaborate with Python programmers
+- 📫 How to reach me: telegram: @douwana, email: ukikatuki@gmail.com, discord: sas8096
+- I am 18 years old
