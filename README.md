@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Linux user (nixos), Frontend Developer, Android Developer
 - https://ukizet.github.io/
-Linux user (nixos), Frontend Developer, Android Developer
 - 📫 How to reach me: telegram: @douwana, email: gregfox567@gmail.com, discord: sas8096#0000
