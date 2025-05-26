@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - https://ukizet.github.io/
-- 👯 I would like to collaborate
-- 📫 How to reach me: telegram: @douwana, email: ukikatuki@gmail.com, working405060@gmail.com, discord: sas8096#0000
+Linux user (nixos), Frontend Developer, Android Developer
+- 📫 How to reach me: telegram: @douwana, email: gregfox567@gmail.com, discord: sas8096#0000
