@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 - FOSS Enjoyer, Creator
 - https://ukizet.github.io/
-- https://linktr.ee/ukikatuki
